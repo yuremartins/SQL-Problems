@@ -1,11 +1,11 @@
-# Top 100 SQL Problems
+# SQL Problems
 Repository aimed at solving practical SQL problems.
 
-## Easy 
+## SQL (Basic)
 
-- [x] IMDb Metacritic Rating
-- [x] IMDb Max Weighted Rating
-- [ ] Students DB
+- [x] Revising the Select Query I
+- [x] Revising the Select Query II
+- [X] Select All
 - [ ] Big Countries
 - [ ] sales Executive
 - [ ] Director's Actor
@@ -23,3 +23,7 @@ Repository aimed at solving practical SQL problems.
 - [ ] Orders With Maximum Quantily Above Average
 - [ ] Product´s Worth Over Invoices
 - [ ] Spotify Sessions
+
+## SQL (Intermediate)
+
+## SQL (Advanced)
