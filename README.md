@@ -6,11 +6,11 @@ Repository aimed at solving practical SQL problems.
 - [x] Revising the Select Query I
 - [x] Revising the Select Query II
 - [X] Select All
-- [ ] Select By ID
-- [ ] Japanese Cities' Attributes
-- [ ] Japanese Cities' Names
-- [ ] Weather Observation Station 1
-- [ ] Weather Observation Station 4
+- [X] Select By ID
+- [X] Japanese Cities' Attributes
+- [X] Japanese Cities' Names
+- [X] Weather Observation Station 1
+- [X] Weather Observation Station 4
 - [ ] Weather Observation Station 6
 - [ ] Weather Observation Station 7
 - [ ] Weather Observation Station 8
