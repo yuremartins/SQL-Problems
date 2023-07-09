@@ -5,7 +5,7 @@ Repository aimed at solving practical SQL problems.
 
 - [x] Revising the Select Query I
 - [x] Revising the Select Query II
-- [ ] Students DB
+- [X] Select All
 - [ ] Big Countries
 - [ ] sales Executive
 - [ ] Director's Actor
