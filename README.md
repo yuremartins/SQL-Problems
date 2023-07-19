@@ -18,11 +18,11 @@ Repository aimed at solving practical SQL problems.
 - [X] Weather Observation Station 10
 - [X] Weather Observation Station 11
 - [X] Weather Observation Station 12
-- [ ] Higher Than 75 Marks
-- [ ] Employee Names
-- [ ] Employee Salaries
-- [ ] Type of triangle
-- [ ] The PADS
+- [X] Higher Than 75 Marks
+- [X] Employee Names
+- [X] Employee Salaries
+- [X] Type of triangle
+- [X] The PADS
 - [ ] Revising Aggregations - The Count Functions
 - [ ] Revising Aggregations - The Sum Functions
 - [ ] Revising Aggregations - Averages
