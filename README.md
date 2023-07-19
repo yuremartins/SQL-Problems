@@ -22,7 +22,7 @@ Repository aimed at solving practical SQL problems.
 - [X] Employee Names
 - [X] Employee Salaries
 - [X] Type of triangle
-- [ ] The PADS
+- [X] The PADS
 - [ ] Revising Aggregations - The Count Functions
 - [ ] Revising Aggregations - The Sum Functions
 - [ ] Revising Aggregations - Averages
