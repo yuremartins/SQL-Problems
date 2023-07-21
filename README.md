@@ -45,4 +45,18 @@ Repository aimed at solving practical SQL problems.
 
 ## SQL (Intermediate)
 
+- [ ] Binary Tree Nodes
+- [x] Weather Observation Station 5
+- [ ] New Companies
+- [ ] Weather Observation Station 20
+- [ ] The Report
+- [ ] Top Competitors
+- [ ] Ollivander's Inventory
+- [ ] Challenges
+- [ ] Contest Leaderboard
+- [ ] SQL Project Planning
+- [ ] Placements
+- [ ] Symmetric Pairs
+- [ ] Interviews
+
 ## SQL (Advanced)
