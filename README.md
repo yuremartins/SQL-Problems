@@ -23,14 +23,14 @@ Repository aimed at solving practical SQL problems.
 - [X] Employee Salaries
 - [X] Type of triangle
 - [X] The PADS
-- [ ] Revising Aggregations - The Count Functions
-- [ ] Revising Aggregations - The Sum Functions
-- [ ] Revising Aggregations - Averages
-- [ ] Average Populations
-- [ ] Japan Population
-- [ ] Population Density Difference
-- [ ] The Blunder
-- [ ] Top Earners
+- [X] Revising Aggregations - The Count Functions
+- [X] Revising Aggregations - The Sum Functions
+- [X] Revising Aggregations - Averages
+- [X] Average Populations
+- [X] Japan Population
+- [X] Population Density Difference
+- [X] The Blunder
+- [X] Top Earners
 - [ ] Wheather Observation Stations 2
 - [ ] Wheather Observation Stations 13
 - [ ] Wheather Observation Stations 14
